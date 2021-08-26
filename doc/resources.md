@@ -3,15 +3,18 @@ title: Resources
 layout: info
 ---
 
-Open textbooks:
+We will primarily be using OpenStax Calculus Vol 3 (and Vol 2 for differential
+equations):
+
+- __OpenStax Calculus Vol 3__ (OSC3)
+    - [Textbook online](https://openstax.org/books/calculus-volume-3/pages/1-introduction)
+    - [Website (pdf available)](https://openstax.org/details/books/calculus-volume-3)
 
 - __OpenStax Calculus Vol 2__ (OSC2)
     - [Textbook online](https://openstax.org/books/calculus-volume-2/pages/1-introduction)
     - [Website (pdf available)](https://openstax.org/details/books/calculus-volume-2)
 
-- __OpenStax Calculus Vol 3__ (OSC3)
-    - [Textbook online](https://openstax.org/books/calculus-volume-3/pages/1-introduction)
-    - [Website (pdf available)](https://openstax.org/details/books/calculus-volume-3)
+Some other open textbooks that we may be using for exercises:
 
 - __Single and Multivariable Calculus__ (Dr. David Guichard, Whitman College) 
     - [Textbook pdf](https://www.whitman.edu/mathematics/multivariable/multivariable.pdf)
