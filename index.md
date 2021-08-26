@@ -3,6 +3,8 @@ title: Welcome
 layout: page
 ---
 
+![](/assets/images/sidney.png)
+
 Hello again fellow mathematics enthusiasts!  
 
 I'm very excited to be your teacher for MultiV this year, after having so much
