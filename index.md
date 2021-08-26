@@ -4,6 +4,7 @@ layout: page
 ---
 
 ![](/assets/images/sidney.png)
+*Image by Sidney '21*
 
 Hello again fellow mathematics enthusiasts!  
 
