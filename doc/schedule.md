@@ -4,15 +4,6 @@ layout: page
 geometry: margin=1in
 ---
 
-## Topics
-
-* Unit 1 (3D space & vectors)
-* Unit 2 (Vector valued functions)
-* Unit 3 (Partial derivatives)
-* Unit 4 (Optimization)
-* Unit 5 (Multiple integrals)
-* Selected topics in linear algebra and differential equations
-
 ## Semester 1 
 
 15 weeks, 32 class meetings
