@@ -55,11 +55,12 @@ ABD: Calculus (Anton, Bivens, Davis, 10th ed)
     - projections
 
 * 1.4 Matrices and determinants
-    - OSP 9.5, 9.7
+    - OSP 9.5, 9.7, 9.8
     - matrix operations
-    - linear transformations
-    - matrix multiplication and composition
-    - determinants
+    - column vectors
+    - linear transformations and matrix multiplication
+    - determinant and area
+    - 2D transformations: scale, reflection, rotation, projection
 
 * 1.5 Cross Product
     - ABD 11.4, OSC3 2.4
