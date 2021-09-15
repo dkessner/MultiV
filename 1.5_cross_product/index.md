@@ -16,8 +16,6 @@ Topics:
 
 Reference: [OSC 2.4 Cross Product](https://openstax.org/books/calculus-volume-3/pages/2-4-the-cross-product)
 
-<iframe class="video" src="https://www.youtube.com/embed/FSSlkyCPi7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [notes (pdf)](MultiV_1.5_CrossProduct.pdf)
 
 ![](0.png)
@@ -25,3 +23,4 @@ Reference: [OSC 2.4 Cross Product](https://openstax.org/books/calculus-volume-3/
 ![](2.png)
 ![](3.png)
 
+<iframe class="video" src="https://www.youtube.com/embed/FSSlkyCPi7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
