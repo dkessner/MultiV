@@ -14,4 +14,6 @@ geometry: margin=1in
 | 1.6 Lines and Planes | [OSC3 2.5](https://openstax.org/books/calculus-volume-3/pages/2-5-equations-of-lines-and-planes-in-space) # 243-251 odd, 267-273 odd, 277, 281, 289-293 odd |
 | 1.7 Cylindrical and spherical coordinates | [OSC3 2.7](https://openstax.org/books/calculus-volume-3/pages/2-7-cylindrical-and-spherical-coordinates) # 363-371 odd, 379, 381, 385-393 odd, 403-409 odd|
 | | |
-| 2.1 | [OSC3 3.1](https://openstax.org/books/calculus-volume-3/pages/3-1-vector-valued-functions-and-space-curves) # 5-25 odd |
+| 2.1 Vector valued functions | [OSC3 3.1](https://openstax.org/books/calculus-volume-3/pages/3-1-vector-valued-functions-and-space-curves) # 5-25 odd |
+| 2.2 Calculus of vector valued functions | [OSC3 3.2](https://openstax.org/books/calculus-volume-3/pages/3-2-calculus-of-vector-valued-functions) # 41-45 odd, 49-57 odd, 67 |
+

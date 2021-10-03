@@ -4,6 +4,12 @@ title: Vector valued functions
 permalink: /2.1_vector_valued_functions/
 ---
 
+Topics:
+- parametric equations
+- vector valued functions (curves)
+
+Reference: [OSC3 3.1](https://openstax.org/books/calculus-volume-3/pages/3-1-vector-valued-functions-and-space-curves)
+
 [notes (pdf)](MultiV_2.1_VectorValuedFunctions.pdf)
 
 ![](0.png)
