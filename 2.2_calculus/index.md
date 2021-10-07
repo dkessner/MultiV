@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calculus of vector valued functions
+title: 2.2 Calculus of vector valued functions
 permalink: /2.2_calculus/
 ---
 

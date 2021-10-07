@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vector valued functions
+title: 2.1 Vector valued functions
 permalink: /2.1_vector_valued_functions/
 ---
 
