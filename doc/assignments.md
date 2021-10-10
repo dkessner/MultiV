@@ -19,5 +19,5 @@ geometry: margin=1in
 | 2.3 Arc length | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 103, 107, 109, 111, 115, 119, 127, 129|
 | 2.4 Tangent, normal, binormal | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 117 (book key incorrect?), 121, 125 (find B also), 141, 143 |
 | 2.5 Motion in space | [OSC3 3.4](https://openstax.org/books/calculus-volume-3/pages/3-4-motion-in-space) # 155-163 odd, 173-177 |
-| 2.6 Conics | [OSC3 1.5](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections) # 255, 257, 263, 267, 271 |
+| Conics review | [OSC3 1.5](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections) # 255, 257, 263, 267, 271 |
 
