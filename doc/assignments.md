@@ -17,5 +17,7 @@ geometry: margin=1in
 | 2.1 Vector valued functions | [OSC3 3.1](https://openstax.org/books/calculus-volume-3/pages/3-1-vector-valued-functions-and-space-curves) # 5-25 odd |
 | 2.2 Calculus of vector valued functions | [OSC3 3.2](https://openstax.org/books/calculus-volume-3/pages/3-2-calculus-of-vector-valued-functions) # 41-45 odd, 49-57 odd, 67 |
 | 2.3 Arc length | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 103, 107, 109, 111, 115, 119, 127, 129|
-| 2.3 Tangent, normal, binormal | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 117 (book key incorrect?), 121, 125 (find B also), 141, 143 |
+| 2.4 Tangent, normal, binormal | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 117 (book key incorrect?), 121, 125 (find B also), 141, 143 |
+| 2.5 Motion in space | [OSC3 3.4](https://openstax.org/books/calculus-volume-3/pages/3-4-motion-in-space) # 155-163 odd, 173-177 |
+| 2.6 Conics | [OSC3 1.5](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections) # 255, 257, 263, 267, 271 |
 
