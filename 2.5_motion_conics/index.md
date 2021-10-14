@@ -5,6 +5,8 @@ permalink: /2.5_motion_conics/
 ---
 
 Topics:
+- $\|\vec{r}(t)\|=1 \quad\Rightarrow\quad \vec{r}\perp\vec{r}\, \'$ 
+- $T \perp N$
 - position, velocity, acceleration
 - conic sections:
     - parabola
