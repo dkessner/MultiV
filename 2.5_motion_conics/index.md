@@ -10,9 +10,8 @@ Topics:
 - position, velocity, acceleration
 - projectile motion
 - conic sections:
-    - parabola
-    - ellipse
-    - hyperbola
+    - parabola, ellipse, hyperbola
+    - focus, directrix, eccentricity
 
 Reference: [OSC3 3.4](https://openstax.org/books/calculus-volume-3/pages/3-4-motion-in-space)
 
