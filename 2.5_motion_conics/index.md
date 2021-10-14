@@ -8,6 +8,7 @@ Topics:
 - $\|\vec{r}(t)\|=1 \quad\Rightarrow\quad \vec{r}\perp\vec{r}\, \'$ 
 - $T \perp N$
 - position, velocity, acceleration
+- projectile motion
 - conic sections:
     - parabola
     - ellipse
