@@ -17,7 +17,7 @@ geometry: margin=1in
 |5   |Sep 27|2|2.1 Vector-valued functions; __Test Unit 1__;|
 |6   |Oct 4 |2|2.2 Calculus of vector-valued functions; 2.3 Arc length; |
 |7   |Oct 11|2|2.4 Tangent, normal, binormal; 2.5 Motion (and Conics); |
-|8   |Oct 18|3|2.6 Polar conics; 2.7 Kepler's Laws; 3.1 Functions of multiple variables; |
+|8   |Oct 18|3|2.6 Polar conics; 2.7 Kepler's Laws; 3.1 Functions of several variables; |
 |9   |Oct 25|2|3.2 Limits and continuity; __Group Work Unit 2__; |
 |10  |Nov 1 |2|3.3 Partial derivatives; 3.4 Differentiability, tangent plane;|
 |11  |Nov 8 |2|__Test Unit 2__; 3.5 Linear transformations, composition; |

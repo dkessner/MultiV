@@ -13,11 +13,12 @@ geometry: margin=1in
 | 1.5 Cross product | [OSC3 2.4](https://openstax.org/books/calculus-volume-3/pages/2-4-the-cross-product) # 183-191 odd, 195 |
 | 1.6 Lines and Planes | [OSC3 2.5](https://openstax.org/books/calculus-volume-3/pages/2-5-equations-of-lines-and-planes-in-space) # 243-251 odd, 267-273 odd, 277, 281, 289-293 odd |
 | 1.7 Cylindrical and spherical coordinates | [OSC3 2.7](https://openstax.org/books/calculus-volume-3/pages/2-7-cylindrical-and-spherical-coordinates) # 363-371 odd, 379, 381, 385-393 odd, 403-409 odd|
-| | |
 | 2.1 Vector valued functions | [OSC3 3.1](https://openstax.org/books/calculus-volume-3/pages/3-1-vector-valued-functions-and-space-curves) # 5-25 odd |
 | 2.2 Calculus of vector valued functions | [OSC3 3.2](https://openstax.org/books/calculus-volume-3/pages/3-2-calculus-of-vector-valued-functions) # 41-45 odd, 49-57 odd, 67 |
 | 2.3 Arc length | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 103, 107, 109, 111, 115, 119, 127, 129|
 | 2.4 Tangent, normal, binormal | [OSC3 3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature) # 117 (book key incorrect?), 121, 125 (find B also), 141, 143 |
 | 2.5 Motion in space | [OSC3 3.4](https://openstax.org/books/calculus-volume-3/pages/3-4-motion-in-space) # 155-163 odd, 173-177 (ignore the graph) |
 | Conics review | [OSC3 1.5](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections) # 255, 257, 263, 267, 271 |
+| 2.6 Polar Conics | [OSC3 1.5](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections) # 279-295 odd, 296 |
+| 3.1 Functions of several variables | [OSC3 4.1](https://openstax.org/books/calculus-volume-3/pages/4-1-functions-of-several-variables) # 1-19 odd, 39, 42, 43, 46, 47, 49, 53 |
 
