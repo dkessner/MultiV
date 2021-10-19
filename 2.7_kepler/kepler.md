@@ -53,3 +53,39 @@ The area swept out in a small time $dt$ is $dA \approx \frac{1}{2}r^2d\theta$,
 so the calculation above shows that $\dfrac{dA}{dt}$ is constant, equal areas
 are swept out in equal times.
 
+### Newton's Laws
+
+Newton's Second Law:
+$\vec{F} = m\vec{a}$  
+
+where $\vec{F}$ is the net force acting on an object, and
+$\vec{a} = \dfrac{d\vec{v}}{dt} = \dfrac{d^2\vec{r}}{dt}$ is the resulting acceleration.
+
+Newton's Universal Law of Gravition:
+$\vec{F} = -\dfrac{GMm}{r^2} \vec{u}$
+
+So the acceleration of an object due to gravity is:  
+$\vec{a} = -\dfrac{GM}{r^2}\vec{u}$
+
+Let $\vec{b} = \vec{r}\times\vec{v}$, which is constant.  Then:
+
+$\begin{aligned}
+\vec{a}\times\vec{b} &=
+\left(-\dfrac{GM}{r^2}\vec{u}\right) \times \left( r^2\dfrac{d\theta}{dt} \vec{k}\right) \cr
+&= -GM \dfrac{d\theta}{dt} (\vec{u}\times\vec{k}) \cr
+\end{aligned}$
+
+Note that:
+
+$\begin{aligned}
+\dfrac{d\theta}{dt} (\vec{u}\times\vec{k}) &=
+    \dfrac{d\theta}{dt} (-\vec{u}^{\perp}) \cr 
+    &= -\dfrac{d\vec{u}}{dt} \cr
+\end{aligned}$
+
+This gives a relation between $\vec{v}$ and $\vec{u}$:
+
+$ \dfrac{d\vec{v}}{dt} = GM \dfrac{d\vec{u}}{dt} $
+
+
+
