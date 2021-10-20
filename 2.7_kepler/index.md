@@ -39,3 +39,13 @@ elliptical orbits around the sun.
 English mathematician who formulated fundamental ideas about vectors,
 calculus, equations of motion, and gravity.
 
+
+[notes (pdf)](MultiV_2.7_Kepler)
+
+![](0.png)
+![](1.png)
+![](2.png)
+![](3.png)
+
+<iframe class="video" src="https://www.youtube.com/embed/X6QBZq9ih-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
