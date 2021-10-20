@@ -5,6 +5,23 @@ permalink: /2.7_kepler/kepler
 ---
 
 
+### Inference of the inverse-square law
+
+Kepler's third law (based on observation) gives a relation between the orbital
+period $T$ and the radius $R$ of the orbit:
+
+$ T^2 \propto r^3 $
+
+Consider the simple case of uniform circular motion with constant radius $r$
+and constant speed $v$.  Then $v = \frac{2\pi r}{T} \propto \frac{r}{T}$.
+Similarly, for the magnitude of the acceleration $a$ we have $a \propto
+\frac{v}{T}$.
+
+Then assuming Kepler's third law,
+
+$ a \propto \dfrac{v}{T} \propto \dfrac{r}{T^2} \propto \dfrac{r}{r^3} \propto \dfrac{1}{r^2} $
+
+
 ### Central forces
 
 Newton gave a geometric argument to show that a central force
@@ -83,9 +100,43 @@ $\begin{aligned}
     &= -\dfrac{d\vec{u}}{dt} \cr
 \end{aligned}$
 
-This gives a relation between $\vec{v}$ and $\vec{u}$:
 
 $ \dfrac{d\vec{v}}{dt} = GM \dfrac{d\vec{u}}{dt} $
 
+Integrating the above expression gives us a relation between $\vec{v}$ and
+$\vec{u}$:  
 
+$\vec{v}\times\vec{b} = GM\vec{u} + \vec{c}$,  
+
+where $\vec{c}$ is a constant.
+
+
+### Kepler's Laws
+
+$\vec{b} = \vec{r}\times\vec{v}$ is constant, so $\|\vec{b}\|$ is constant.
+
+On the other hand,
+
+$\begin{aligned}
+\|\vec{b}\|^2 
+&= (\vec{r}\times\vec{v}) \cdot \vec{b} \cr
+&= \vec{r} \cdot (\vec{v}\times\vec{b}) \cr
+&= \vec{r} \cdot (GM\vec{u} + \vec{c}) \cr
+&= GM\vec{r}\cdot\vec{u} + \vec{r}\cdot\vec{c} \cr
+&= GMr + rc\cos\theta \cr
+\end{aligned}$
+
+Solving for $r$ as a function of $\theta$:
+
+$\begin{aligned}
+r &= \dfrac{\|b\|^2}{GM + c\cos\theta} \cr
+\end{aligned}$
+
+which is the polar form for a conic section.  The curve will be an ellipse, parabola,
+or hyperbola, depending on the eccentricity $e = \frac{c}{GM}$.
+
+One detail: The $\theta$ here is the angle between $\vec{r}$ and $\vec{c}$.  We
+have assumed that $r$ is minimized at $\theta=0$, so $\vec{c}$ is actually in
+the direction of $\vec{i}$ and this is the same $\theta$ as above (the
+direction of $\vec{r}$).
 
