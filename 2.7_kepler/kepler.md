@@ -24,12 +24,13 @@ $ a \propto \dfrac{v}{T} \propto \dfrac{r}{T^2} \propto \dfrac{r}{r^3} \propto \
 
 ### Central forces
 
-Newton gave a geometric argument to show that a central force
-implies the equal area property (equal areas swept out in equal
-times).
+Newton gave a geometric argument to show that a central force does
+not change the area swept out by a planet.
 
-More precisely, for a central force, 
-$\vec{r}\times\vec{v}= \text{const}$, because
+![](fig0.png)
+
+If we consider $\vec{r}\times\vec{v}$, we see that
+$\vec{r}\times\vec{v}= \text{const}$ for a central force, because
 
 $ \begin{aligned}
     \frac{d}{dt} \left(\vec{r} \times \vec{v}\right) &=
@@ -41,7 +42,18 @@ $ \begin{aligned}
 The last equality holds because $\vec{v}\times\vec{v}=0$ for any vector
 $\vec{v}$ and $\vec{a}$ is in the direction $-\vec{r}$ for a central force.
 
+If we let $\vec{b} = \vec{r}\times\vec{v}$, we have
+$\vec{b}\cdot\vec{r} = 0$ and $\vec{b}\cdot\vec{v} = 0$, so both
+the position and velocity vectors lie in the plane normal to
+$\vec{b}$.
+
+This shows that, under the influence of a central force, the
+object's trajectory is confined to a plane.
+
+
 ### Polar Notation
+
+![](fig1.png)
 
 Let $\vec{u}(t) = \begin{pmatrix} \cos\theta(t) \cr \sin\theta(t) \end{pmatrix}$,
 so we can write $\vec{r}(t) = r(t)\vec{u}(t)$.  In other words,
@@ -72,17 +84,19 @@ are swept out in equal times.
 
 ### Newton's Laws
 
-Newton's Second Law:
+__Newton's Second Law__:  
 $\vec{F} = m\vec{a}$  
 
 where $\vec{F}$ is the net force acting on an object, and
 $\vec{a} = \dfrac{d\vec{v}}{dt} = \dfrac{d^2\vec{r}}{dt}$ is the resulting acceleration.
 
-Newton's Universal Law of Gravition:
+__Newton's Universal Law of Gravition__:  
 $\vec{F} = -\dfrac{GMm}{r^2} \vec{u}$
 
 So the acceleration of an object due to gravity is:  
 $\vec{a} = -\dfrac{GM}{r^2}\vec{u}$
+
+### Relation between $\vec{v}$ and $\vec{u}$
 
 Let $\vec{b} = \vec{r}\times\vec{v}$, which is constant.  Then:
 
@@ -92,7 +106,9 @@ $\begin{aligned}
 &= -GM \dfrac{d\theta}{dt} (\vec{u}\times\vec{k}) \cr
 \end{aligned}$
 
-Note that:
+(Notice the cancellation of $r^2$.)
+
+We can simplify by noticing that:
 
 $\begin{aligned}
 \dfrac{d\theta}{dt} (\vec{u}\times\vec{k}) &=
@@ -100,8 +116,10 @@ $\begin{aligned}
     &= -\dfrac{d\vec{u}}{dt} \cr
 \end{aligned}$
 
+This leaves us with a relation between $\vec{v}\'$ 
+and $\vec{u}\'$:
 
-$ \dfrac{d\vec{v}}{dt} = GM \dfrac{d\vec{u}}{dt} $
+$ \dfrac{d\vec{v}}{dt}\times\vec{b} = GM \dfrac{d\vec{u}}{dt} $
 
 Integrating the above expression gives us a relation between $\vec{v}$ and
 $\vec{u}$:  
