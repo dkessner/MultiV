@@ -12,6 +12,7 @@ Reference: [OSC3 4.1](https://openstax.org/books/calculus-volume-3/pages/4-1-fun
 
 [notes (pdf)](MultiV_3.1_FunctionsSeveralVariables.pdf)
 
+![](origami_hyperbolic_paraboloids.jpg)
 ![](0.png)
 ![](1.png)
 ![](2.png)
