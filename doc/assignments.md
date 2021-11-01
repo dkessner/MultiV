@@ -22,4 +22,5 @@ geometry: margin=1in
 | 2.6 Polar Conics | [OSC3 1.5](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections) # 279-295 odd, 296 |
 | 3.1 Functions of several variables | [OSC3 4.1](https://openstax.org/books/calculus-volume-3/pages/4-1-functions-of-several-variables) # 1-19 odd, 39, 42, 43, 46, 47, 49, 53 |
 | 3.2 Limits and contiunity | [OSC3 4.2](https://openstax.org/books/calculus-volume-3/pages/4-2-limits-and-continuity) # 61-77 odd, 91, 93, 97, 103 |
+| 3.3 Partial derivatives | [OSC3 4.3](https://openstax.org/books/calculus-volume-3/pages/4-3-partial-derivatives) # 113-125 odd, 129-137 odd |
 
