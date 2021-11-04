@@ -23,4 +23,5 @@ geometry: margin=1in
 | 3.1 Functions of several variables | [OSC3 4.1](https://openstax.org/books/calculus-volume-3/pages/4-1-functions-of-several-variables) # 1-19 odd, 39, 42, 43, 46, 47, 49, 53 |
 | 3.2 Limits and contiunity | [OSC3 4.2](https://openstax.org/books/calculus-volume-3/pages/4-2-limits-and-continuity) # 61-77 odd, 91, 93, 97, 103 |
 | 3.3 Partial derivatives | [OSC3 4.3](https://openstax.org/books/calculus-volume-3/pages/4-3-partial-derivatives) # 113-125 odd, 129-137 odd |
+| 3.4 Differentiability | [OSC3 4.4](https://openstax.org/books/calculus-volume-3/pages/4-4-tangent-planes-and-linear-approximations) # 171-175 odd, 195, 199, 207 |
 
