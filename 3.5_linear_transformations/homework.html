@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>none</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
+</head>
+<body>
+<p><strong>Linear Transformations Homework</strong><br />
+<strong>MultiV 2021-22 / Dr. Kessner</strong></p>
+
+<p>First, some notation: let <span class="math inline">\(R_{\theta} = \begin{pmatrix}  \cos\theta &amp; -\sin\theta \\  \sin\theta &amp; \cos\theta \end{pmatrix}\)</span> represent rotation in the plane.</p>
+<p>For example, <span class="math inline">\(R_\frac{\pi}{6}\)</span> means rotation by <span class="math inline">\(\frac{\pi}{6}\)</span>: <span class="math display">\[R_{\frac{\pi}{6}} = 
+\begin{pmatrix}
+    \frac{\sqrt{3}}{2} &amp; -\frac{1}{2} \\[0.3em]
+    \frac{1}{2} &amp; \frac{\sqrt{3}}{2}
+\end{pmatrix}
+\]</span></p>
+<p><strong>1.</strong> Apply each of the following matrices to the specified vectors. Think about how the vectors are transformed, and make sure your answers make sense. Describe the linear transformation represented by the matrix.</p>
+<ol type="a">
+<li><p><span class="math inline">\(S = \begin{pmatrix} 2 &amp; 0 \\ 0 &amp; 2 \\ \end{pmatrix}\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  3 \\  4 \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(S^2\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  3 \\  4 \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(R_{\frac{\pi}{6}}\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  \frac{\sqrt{3}}{2} \\[0.3em]  \frac{1}{2} \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(R_{\frac{\pi}{6}}^2\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  \frac{\sqrt{3}}{2} \\[0.3em]  \frac{1}{2} \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(R_{\frac{\pi}{6}}^3\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  \frac{\sqrt{3}}{2} \\[0.3em]  \frac{1}{2} \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(A = \begin{pmatrix} 0 &amp; 1 \\ 1 &amp; 0 \\ \end{pmatrix}\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  3 \\  4 \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(A^2\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \text{and} \begin{pmatrix}  3 \\  4 \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(P = \begin{pmatrix} 0 &amp; 1 &amp; 0 \\ \end{pmatrix}\)</span> applied to <span class="math inline">\(\mathbf{i}, \mathbf{j}, \mathbf{k}, \text{and} \begin{pmatrix}  3 \\  4 \\  5 \\ \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(C = \begin{pmatrix} 1 \\ 2 \\ 3 \\ \end{pmatrix}\)</span> applied to <span class="math inline">\((0), (1), (2)\)</span>. Yes, these are <span class="math inline">\(1\times 1\)</span> matrices, otherwise known as real numbers.</p></li>
+<li><p><span class="math inline">\(PC\)</span> applied to <span class="math inline">\((0), (1), (2)\)</span></p></li>
+</ol>
+<p><strong>2.</strong> Verify the following: <span class="math display">\[
+    R_{\frac{\pi}{6}}^{-1} = R_{-\frac{\pi}{6}}
+\]</span> <span class="math display">\[
+    R_{\frac{\pi}{4}}^2 = R_{\frac{\pi}{2}}
+\]</span> <span class="math display">\[
+    R_{\frac{\pi}{2}}^2 = R_{\pi}
+\]</span> <span class="math display">\[
+    R_{\pi}^2 = I
+\]</span> <span class="math display">\[
+    R_{\theta}R_{\phi} = R_{\theta + \phi}
+\]</span></p>
+</body>
+</html>
