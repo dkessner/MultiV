@@ -24,5 +24,6 @@ geometry: margin=1in
 | 3.2 Limits and contiunity | [OSC3 4.2](https://openstax.org/books/calculus-volume-3/pages/4-2-limits-and-continuity) # 61-77 odd, 91, 93, 97, 103 |
 | 3.3 Partial derivatives | [OSC3 4.3](https://openstax.org/books/calculus-volume-3/pages/4-3-partial-derivatives) # 113-125 odd, 129-137 odd |
 | 3.4 Differentiability | [OSC3 4.4](https://openstax.org/books/calculus-volume-3/pages/4-4-tangent-planes-and-linear-approximations) # 171-175 odd, 195, 199, 207 |
-| 3.5 Linear transformations | [homework](../3.5_linear_transformations/homework) [homework (pdf)](../3.5_linear_transformations/homework.pdf) |
+| 3.5 Linear transformations | Homework handout: [webpage](../3.5_linear_transformations/homework) [pdf](../3.5_linear_transformations/homework.pdf) |
+| 3.6 Chain rule | [OSC3 4.5](https://openstax.org/books/calculus-volume-3/pages/4-5-the-chain-rule) # 221-229 odd |
 
