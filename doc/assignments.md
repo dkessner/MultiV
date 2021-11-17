@@ -26,4 +26,5 @@ geometry: margin=1in
 | 3.4 Differentiability | [OSC3 4.4](https://openstax.org/books/calculus-volume-3/pages/4-4-tangent-planes-and-linear-approximations) # 171-175 odd, 195, 199, 207 |
 | 3.5 Linear transformations | Homework handout: [webpage](../3.5_linear_transformations/homework) [pdf](../3.5_linear_transformations/homework.pdf) |
 | 3.6 Chain rule | [OSC3 4.5](https://openstax.org/books/calculus-volume-3/pages/4-5-the-chain-rule) # 221-229 odd |
+| 3.7 Directional derivatives and gradient | [OSC3 4.6](https://openstax.org/books/calculus-volume-3/pages/4-6-directional-derivatives-and-the-gradient) # 263-273 odd, 281 |
 
