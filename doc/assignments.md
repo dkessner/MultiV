@@ -29,4 +29,5 @@ geometry: margin=1in
 | 3.7 Directional derivatives and gradient | [OSC3 4.6](https://openstax.org/books/calculus-volume-3/pages/4-6-directional-derivatives-and-the-gradient) # 263-273 odd, 281 |
 | 3.8 Level surfaces and tangent planes | [OSC3 4.6](https://openstax.org/books/calculus-volume-3/pages/4-6-directional-derivatives-and-the-gradient) # 303a, 305a |
 | 4.1 Rotation of axes | [OSP 10.4](https://openstax.org/books/precalculus/pages/10-4-rotation-of-axes) # 23, 25, 29 |
+| 4.2 Optimization | [OSC3 4.7](https://openstax.org/books/calculus-volume-3/pages/4-7-maxima-minima-problems) # |
 
