@@ -34,10 +34,10 @@ geometry: margin=1in
 |Week|Date  |#|Topics|
 |----|------|-|----------------------------------------|
 |1   |Jan 3 |1|Classwork Review / Warmup; |
-|2   |Jan 10|3|4.1 Rotating axes; 4.2 Optimization; Classwork practice|
-|3   |Jan 17|2|4.3 Constrained optimization; 4.4 Lagrange Multipliers;|
-|4   |Jan 24|2|5.1 Double integrals; __Group Work Unit 4__ (Fri Jan 28); |
-|5   |Jan 31|2| 5.2 More double integrals (non-rectangular regions); __Test Unit 4__ (Thu Feb 3);|
+|2   |Jan 10|3|4.1 Rotating axes; 4.2 Optimization; 4.3 Constrained optimization;|
+|3   |Jan 17|2|4.4 Lagrange Multipliers; __Group Work Unit 4__ (Fri Jan 21);|
+|4   |Jan 24|2|5.1 Double integrals; __Test Unit 4__ (Fri Jan 28); |
+|5   |Jan 31|2|5.2 More double integrals (non-rectangular regions); |
 |6   |Feb 7 |2|5.3 More more double integrals (volumes); 5.4 Double integrals in polar coordinates;|
 |7   |Feb 14|2|5.5 Parametric Surfaces and Surface Area; Coding Day - parametric surfaces; |
 |8   |Feb 21|2|5.6 More surfaces; 5.7 Triple integrals; |
