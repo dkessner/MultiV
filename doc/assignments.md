@@ -33,4 +33,5 @@ geometry: margin=1in
 | 4.3 Constrained optimization | [OSC3 4.7](https://openstax.org/books/calculus-volume-3/pages/4-7-maxima-minima-problems) # 349, 351, 357 |
 | 4.4 Lagrange multipliers | [OSC3 4.8](https://openstax.org/books/calculus-volume-3/pages/4-8-lagrange-multipliers) # 359, 365, 367, 369 |
 | 5.1 Double integrals | [OSC3 5.1](https://openstax.org/books/calculus-volume-3/pages/5-1-double-integrals-over-rectangular-regions) # 13-19 odd (do both ways), 21, 23 |
+| 5.2 More double integrals | [OSC3 5.2](https://openstax.org/books/calculus-volume-3/pages/5-2-double-integrals-over-general-regions) # 61, 65, 75, 77, 79 (both ways), 97 (both ways)|
 
