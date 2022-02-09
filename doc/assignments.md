@@ -35,4 +35,5 @@ geometry: margin=1in
 | 5.1 Double integrals | [OSC3 5.1](https://openstax.org/books/calculus-volume-3/pages/5-1-double-integrals-over-rectangular-regions) # 13-19 odd (do both ways), 21, 23 |
 | 5.2 More double integrals | [OSC3 5.2](https://openstax.org/books/calculus-volume-3/pages/5-2-double-integrals-over-general-regions) # 65, 75, 77, 79 (both ways), 97 (both ways)|
 | 5.3 More more double integrals | [OSC3 5.2](https://openstax.org/books/calculus-volume-3/pages/5-2-double-integrals-over-general-regions) # 103, 105 (tricky - do last), 109, 111, 113 |
+| 5.4 Polar coordinates | [OSC3 5.3](https://openstax.org/books/calculus-volume-3/pages/5-3-double-integrals-in-polar-coordinates) # 135, 137 (long), 149-155 odd |
 
