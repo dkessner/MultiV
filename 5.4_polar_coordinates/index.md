@@ -7,7 +7,7 @@ permalink: /5.4_polar_coordinates/
 Topics:
 - double integrals in polar coordinates
 
-[notes (pdf)](MultiV_5.4_PolarCoordinatespdf)
+[notes (pdf)](MultiV_5.4_PolarCoordinates.pdf)
 
 ![](0.png)
 ![](1.png)
