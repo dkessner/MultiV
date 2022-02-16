@@ -39,11 +39,11 @@ geometry: margin=1in
 |4   |Jan 24|2|5.1 Double integrals; __Test Unit 4__ (Fri Jan 28); |
 |5   |Jan 31|2|5.2 More double integrals (non-rectangular regions); |
 |6   |Feb 7 |2|5.3 More more double integrals (volumes); 5.4 Double integrals in polar coordinates;|
-|7   |Feb 14|2|5.5 Parametric Surfaces and Surface Area; Coding Day - parametric surfaces; |
-|8   |Feb 21|2|5.6 More surfaces; 5.7 Triple integrals; |
-|9   |Feb 28|3|5.8 Cylindrical/Spherical Coordinates; 5.9 Change of Variables;|
-|10  |Mar 7 |2|5.10 Centers of Mass; 5.11 Pappus' Theorem; |
-|11  |Mar 14|2|__Group Work Unit 5__ (Tue Mar 15);|
+|7   |Feb 14|2|5.5 Parametric Surfaces and Surface Area; 5.6 More surfaces (donut day);|
+|8   |Feb 21|2|5.7 Triple integrals; 5.8 Cylindrical/Spherical Coordinates; |
+|9   |Feb 28|3|5.9 Change of Variables; 5.10 Centers of Mass;|
+|10  |Mar 7 |2|5.11 Pappus' Theorem; Coding Day - parametric surfaces;|
+|11  |Mar 14|2|__Group Work Unit 5__ (Tue Mar 15); |
 |12  |Mar 21|2|__Test Unit 5__ (Tue Mar 22);|
 |--  |Mar 28|-|_Spring Break_|
 |--  |Apr 4 |-|_Spring Break_|
