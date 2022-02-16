@@ -38,5 +38,6 @@ geometry: margin=1in
 | 5.4 Polar coordinates | [OSC3 5.3](https://openstax.org/books/calculus-volume-3/pages/5-3-double-integrals-in-polar-coordinates) # 135, 137 (long), 149-155 odd |
 | 5.5 Parametric surfaces and surface area | [OSC3 6.6](https://openstax.org/books/calculus-volume-3/pages/6-6-surface-integrals) # 273-277 odd, parametrize the torus  [Guichard 15.4](https://www.whitman.edu/mathematics/calculus_online/section15.04.html) # 1-3 (for #1, let the cone open along the y-axis) |
 | 5.6 More surfaces | [Guichard 16.6](https://www.whitman.edu/mathematics/calculus_online/section16.06.html) # 3, 4, 5, 7; |
-
+| 5.7 Triple integrals | [OSC3 5.4](https://openstax.org/books/calculus-volume-3/pages/5-4-triple-integrals) # 181, 183, 197, 225, 229, 231 |
+| 5.8 Cyl/Sphere Coordinates | [OSC3 5.5](https://openstax.org/books/calculus-volume-3/pages/5-5-triple-integrals-in-cylindrical-and-spherical-coordinates) # 241, 243, 249, 253, 269, 283, 291 |
 
