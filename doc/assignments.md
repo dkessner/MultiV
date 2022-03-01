@@ -40,4 +40,7 @@ geometry: margin=1in
 | 5.6 More surfaces | [Guichard 16.6](https://www.whitman.edu/mathematics/calculus_online/section16.06.html) # 3, 4, 5, 7; |
 | 5.7 Triple integrals | [OSC3 5.4](https://openstax.org/books/calculus-volume-3/pages/5-4-triple-integrals) # 181, 183, 197, 225, 229, 231 |
 | 5.8 Cyl/Sphere Coordinates | [OSC3 5.5](https://openstax.org/books/calculus-volume-3/pages/5-5-triple-integrals-in-cylindrical-and-spherical-coordinates) # 241, 243, 249, 253, 269, 283, 291 |
+| 5.9 Change of Variables    | [handout](../unit5/multiv_unit5_hw_change_of_variables.pdf) |
+| 5.10 Centers of Mass | [handout](../unit5/multiv_unit5_hw_centroids.pdf) |
+| 5.11 Pappus' Theorems | [handout](../unit5/multiv_unit5_hw_pappus.pdf) |
 
