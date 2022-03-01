@@ -42,5 +42,5 @@ geometry: margin=1in
 | 5.8 Cyl/Sphere Coordinates | [OSC3 5.5](https://openstax.org/books/calculus-volume-3/pages/5-5-triple-integrals-in-cylindrical-and-spherical-coordinates) # 241, 243, 249, 253, 269, 283, 291 |
 | 5.9 Change of Variables    | [handout](../unit5/multiv_unit5_hw_change_of_variables.pdf) |
 | 5.10 Centers of Mass | [handout](../unit5/multiv_unit5_hw_centroids.pdf) |
-| 5.11 Pappus' Theorems | [handout](../unit5/multiv_unit5_hw_pappus.pdf) |
+| 5.11 Pappus' Theorem | [handout](../unit5/multiv_unit5_hw_pappus.pdf) |
 
