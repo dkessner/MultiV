@@ -5,9 +5,15 @@ __MultiV 2021-22 / Dr. Kessner__
 
 \vspace{.25in}
 
-For each of the following shapes, express the volume as a triple integral in
-two ways (cylindrical coordinates: disks and shells).  Solve each, and verify
-your answer with a formula.
+For each of the following shapes:
+
+a) Express the volume as a triple integral in cylindrical
+coordinates in two ways (disks and shells).  Solve each, and
+verify your answer with a formula.
+
+b) Calculate the lateral surface area, treating the shape as a
+surface of revolution.  Verify your answer with a formula.
+
 
 \vspace{.25in}
 
