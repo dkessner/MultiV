@@ -42,7 +42,7 @@ geometry: margin=1in
 |7   |Feb 14|2|5.5 Parametric Surfaces and Surface Area; 5.6 More surfaces (donut day);|
 |8   |Feb 21|2|5.7 Triple integrals; 5.8 Cylindrical/Spherical Coordinates; |
 |9   |Feb 28|3|5.9 Change of Variables; 5.10 Centers of Mass; 5.11 Disks and shells|
-|10  |Mar 7 |2|5.12 Pappus' Theorem; __Group Work Unit 5__ (Tue Mar 15); | 
+|10  |Mar 7 |2|5.12 Pappus' Theorem; __Group Work Unit 5__ (Fri Mar 11); | 
 |11  |Mar 14|2|__Test Unit 5__ (take home assignment); |
 |12  |Mar 21|2|Coding Day - parametric surfaces; |
 |--  |Mar 28|-|_Spring Break_|
