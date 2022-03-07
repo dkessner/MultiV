@@ -18,7 +18,7 @@ cone).  Find the lateral surface area of the cone in 4 different ways:
 * use a formula
 * use Pappus' Centroid Theorem 
 * compute the surface area of revolution as a single integral
-* parametrize the cone and compute a double integral
+* parametrize the surface and compute a double integral
 
 \vspace{.2in}
 
@@ -30,8 +30,8 @@ y-axis.  Find the volume of the cone in 4 different ways:
 
 * use a formula
 * use Pappus' Centroid Theorem
-* compute the volume of revolution as a single integral
-* parametrize the cone and compute a double or triple integral
+* compute the volume of revolution as a triple integral in
+  cylindrical coordinates in two ways (disks and shells).
 
 ---
 pagetitle: none
