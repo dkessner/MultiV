@@ -47,9 +47,9 @@ geometry: margin=1in
 |12  |Mar 21|2|Coding Day - parametric surfaces; |
 |--  |Mar 28|-|_Spring Break_|
 |--  |Apr 4 |-|_Spring Break_|
-|13  |Apr 11|2|6.1 Separable equations; 6.2 Integrating factors|
-|14  |Apr 18|3|6.3 Population growth, logistic function;|
-|15  |Apr 25|2|__Group Work Unit 6__ (Tue Apr 26)|
-|16  |May 2 |2|__Test Unit 6__ (Tue May 3)|
+|13  |Apr 11|2|Special unit - Geometric Algebra|
+|14  |Apr 18|3|Special unit - Geometric Algebra|
+|15  |Apr 25|2|6.1 Separable equations; 6.2 Integrating Factors|
+|16  |May 2 |2|6.3 Population growth, logistic function|
 |17  |May 9 |?|End of MultiV :(|
 
