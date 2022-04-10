@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Special Unit: Geometric Algebra
+title: Special Unit - Geometric Algebra
 permalink: /unit_ga/
 ---
 
