@@ -1,4 +1,4 @@
-__Geometric Algebra HW 1__   
+__Geometric Algebra HW 1 (Wedge Product)__   
 __MultiV 2021-22 / Dr. Kessner__    
 
 \vspace{.25in}
