@@ -18,9 +18,30 @@
 <strong>MultiV 2021-22 / Dr. Kessner</strong></p>
 
 
-<p>First we’re going to think about the unit circle in <span class="math inline">\(\mathbb{R^2}\)</span>, and change our notation as well.</p>
-<p>We’re going to call our unit vectors <span class="math inline">\(e_1 = \mathbf{i} =\)</span></p>
-<p><img src="figures_draft/0.png" /></p>
-<p><img src="figures_draft/1.png" /> <img src="figures_draft/2.png" /> <img src="figures_draft/3.png" /> <img src="figures_draft/4.png" /> <img src="figures_draft/5.png" /></p>
+<p>First we’re going to think about the unit circle in <span class="math inline">\(\mathbb{R}^2\)</span>, and change our notation as well.</p>
+<p>We’re going to call our unit vectors <span class="math inline">\(e_1 = \mathbf{i} = \begin{pmatrix} 1 \\ 0 \end{pmatrix}\)</span> and <span class="math inline">\(e_2 = \mathbf{j} = \begin{pmatrix} 0 \\ 1 \end{pmatrix}\)</span>.</p>
+<p>Let <span class="math inline">\(u = \begin{pmatrix} \cos \theta \\ \sin \theta \end{pmatrix}\)</span> be a vector on the unit circle.</p>
+<p><img src="figures_draft/unit_circle.png" /></p>
+<p>Observe that the projection of <span class="math inline">\(u\)</span> on the x-axis is given by <span class="math inline">\(\cos \theta\)</span>, and the area of the parallelogram determined by <span class="math inline">\(e_1\)</span> and <span class="math inline">\(u\)</span> is <span class="math inline">\(\sin \theta\)</span>.</p>
+<p>We can graph the area of the parallelogram as <span class="math inline">\(u\)</span> moves around the unit circle. Notice that for <span class="math inline">\(\theta \in [\pi, 2\pi]\)</span>, the area is negative.</p>
+<p><img src="figures_draft/sin.png" /></p>
+<p>We have seen previously that <span class="math inline">\(u = \begin{pmatrix} a \\ b \end{pmatrix}\)</span> and <span class="math inline">\(v = \begin{pmatrix} c \\ d \end{pmatrix}\)</span>, the area of the parallelogram is given by the determinant <span class="math inline">\(\begin{vmatrix} a &amp; c \\ b &amp; d \\ \end{vmatrix} = ad - bc\)</span>.</p>
+<p><img src="figures_draft/vectors.png" /></p>
+<p>We define the wedge product <span class="math inline">\(u \wedge v\)</span> to be the directed (signed) area of the parallelogram determined by the two vectors, but with “units” (like <span class="math inline">\(\text{meters}^2\)</span>). We call this directed area a <em>bivector</em>.</p>
+<p>We define <span class="math inline">\(e1 \wedge e2\)</span> to be the “unit bivector”. It represents the directed area of the square determined by <span class="math inline">\(e_1\)</span> and <span class="math inline">\(e_2\)</span>. A general bivector will be a scalar multiple of <span class="math inline">\(e_1 \wedge e_2\)</span>. However, the actual shape of of the bivector is not specified: we can think of it as a square, or reshape it to a parallelogram, or an amorphous shape in the plane.</p>
+<p><img src="figures_draft/bivectors.png" /></p>
+<p>From the definition of the wedge product, we observe that:<br />
+<span class="math inline">\(e_1 \wedge e_1 = 0 = e_2 \wedge e_2\)</span><br />
+<span class="math inline">\(e_2 \wedge e_1 = - e_1 \wedge e_2\)</span>.</p>
+<p>The distributive property is not so obvious:<br />
+<span class="math inline">\(w \wedge (u+v) = w\wedge u + w\wedge v\)</span></p>
+<p><img src="figures_draft/distributive.png" /></p>
+<p>Once we believe the distributive property, we can do FOIL.<br />
+Let <span class="math inline">\(u = \begin{pmatrix} a \\ b \end{pmatrix} = a e_1 + b e_2\)</span><br />
+and <span class="math inline">\(v = \begin{pmatrix} c \\ d \end{pmatrix} = c e_1 + d e_2\)</span>.</p>
+<p>Then</p>
+<p><span class="math inline">\(\begin{aligned} u \wedge v &amp;= (a e_1 + b e_2) \wedge (c e_1 + d e_2) \\  &amp;= (a e_1 \wedge c e_1) + (a e_1 \wedge d e_2) + (b e_2 \wedge c e_1) + (b e_2 \wedge d e_2) \\  &amp;= ac (e_1\wedge e_1) + + ad (e_1 \wedge e_2) + bc (e_2 \wedge e_1) + bd (e_2 \wedge e_2) \\  &amp;= (ad-bc) (e_1 \wedge e_2) \end{aligned}\)</span></p>
+<p>Notice that the determinant <span class="math inline">\(ad-bc\)</span> emerges as a consequence of the elementary properties of the wedge product.</p>
+<p><img src="figures_draft/wedge.png" /> <img src="figures_draft/distance.png" /></p>
 </body>
 </html>
