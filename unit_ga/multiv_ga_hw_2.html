@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>none</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
+</head>
+<body>
+<p><strong>Geometric Algebra HW 2 (Geometric Product)</strong><br />
+<strong>MultiV 2021-22 / Dr. Kessner</strong></p>
+
+
+<ol type="1">
+<li><p>For each of the following vectors, find the inverse. Draw the unit circle on the plane, and draw each vector and its inverse.</p>
+<ol type="a">
+<li><p><span class="math inline">\(u = \begin{pmatrix} 2 \\ 0 \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(v = \begin{pmatrix} 0 \\ 3 \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(w = \begin{pmatrix} \frac{\sqrt{3}}{2} \\ \frac{1}{2} \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(x = \begin{pmatrix} \sqrt{3} \\ 1 \end{pmatrix}\)</span></p></li>
+</ol></li>
+</ol>
+
+<p><em>Answers:</em> <span class="math inline">\(u^{-1} = \begin{pmatrix} \frac{1}{2} \\ 0 \end{pmatrix}\)</span>, <span class="math inline">\(v^{-1}= \begin{pmatrix} 0 \\ \frac{1}{3} \end{pmatrix}\)</span>, <span class="math inline">\(w^{-1} = w = \begin{pmatrix} \frac{\sqrt{3}}{2} \\ \frac{1}{2} \end{pmatrix}\)</span>, <span class="math inline">\(x^{-1} = \begin{pmatrix} \frac{\sqrt{3}}{4} \\ \frac{1}{4} \end{pmatrix}\)</span></p>
+
+<ol start="2" type="1">
+<li><p>Let <span class="math inline">\(u = e_1 = \begin{pmatrix} 1 \\ 0  \end{pmatrix}\)</span>.<br />
+Let <span class="math inline">\(v =  (\cos\dfrac{\pi}{6})e_1+(\sin\dfrac{\pi}{6})e_2 =  \begin{pmatrix} \frac{\sqrt{3}}{2} \\ \frac{1}{2} \end{pmatrix}\)</span>.</p>
+<p></p>
+<p>Show the following:</p>
+<p></p>
+<ol type="a">
+<li><p><span class="math inline">\(uv =  (\cos\dfrac{\pi}{6})+(\sin\dfrac{\pi}{6})e_1 e_2 =  \frac{\sqrt{3}}{2}+\frac{1}{2}e_1 e_2\)</span></p>
+<p>(<span class="math inline">\(uv\)</span> is a rotor representing a rotation by <span class="math inline">\(\frac{\pi}{6}\)</span>.)</p></li>
+<li><p><span class="math inline">\(vu =  \frac{\sqrt{3}}{2}-\frac{1}{2}e_1 e_2\)</span></p>
+<p>(<span class="math inline">\(vu\)</span> is a rotor representing a rotation by <span class="math inline">\(-\frac{\pi}{6}\)</span>.)</p></li>
+<li><p><span class="math inline">\(vuv = v(uv) = (vu)v =  \begin{pmatrix} \frac{1}{2} \\ \frac{\sqrt{3}}{2} \end{pmatrix}\)</span></p>
+<p>(applying <span class="math inline">\(uv\)</span> on the right (or <span class="math inline">\(vu\)</span> on the left) rotates <span class="math inline">\(v\)</span> by <span class="math inline">\(\frac{\pi}{6}\)</span>)</p></li>
+<li><p><span class="math inline">\(vvu = v(vu) = (uv)v = e_1 =  \begin{pmatrix} 1 \\ 0 \end{pmatrix}\)</span></p>
+<p>(applying <span class="math inline">\(vu\)</span> on the right (or <span class="math inline">\(uv\)</span> on the left) rotates <span class="math inline">\(v\)</span> by <span class="math inline">\(-\frac{\pi}{6}\)</span>)</p></li>
+<li><p><span class="math inline">\(uvuv = \frac{1}{2} + \frac{\sqrt{3}}{2} e_1 e_2\)</span></p>
+<p>(<span class="math inline">\(uvuv = (uv)^2\)</span> is a rotor representing rotation by <span class="math inline">\(\frac{\pi}{3}\)</span>)</p></li>
+<li><p><span class="math inline">\((vu)(uv) = 1\)</span></p></li>
+<li><p><span class="math inline">\(vuvuv = e_2 = \begin{pmatrix} 0 \\ 1 \end{pmatrix}\)</span></p></li>
+<li><p><span class="math inline">\(uvuvuv = e_1 e_2\)</span></p>
+<p>(<span class="math inline">\(uvuvuv = (uv)^3\)</span> a rotor representing rotation by <span class="math inline">\(\frac{\pi}{2}\)</span> (the unit bivector))</p></li>
+</ol></li>
+</ol>
+</body>
+</html>
