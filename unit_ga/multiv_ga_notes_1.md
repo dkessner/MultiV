@@ -5,6 +5,7 @@ __MultiV 2021-22 / Dr. Kessner__
 
 \renewcommand{\vec}[1]{\mathbf{#1}}
 
+## The unit circle
 
 First we're going to think about the unit circle in
 $\mathbb{R}^2$, and change our notation as well.
@@ -28,6 +29,10 @@ the unit circle.  Notice that for $\theta \in [\pi, 2\pi]$,
 the area is negative.
 
 ![](figures_draft/sin.png)
+
+\newpage
+
+## The wedge product
 
 We have seen previously that 
 $u = \begin{pmatrix} a \\ b \end{pmatrix}$
@@ -82,13 +87,55 @@ u \wedge v &= (a e_1 + b e_2) \wedge (c e_1 + d e_2) \\
 Notice that the determinant $ad-bc$ emerges as a consequence of
 the elementary properties of the wedge product.
 
+Or we can use this as a shortcut for calculating the wedge
+product between two vectors:
 
+$\begin{aligned}
+u \wedge v &= \begin{pmatrix} a \\ b \end{pmatrix} \wedge 
+              \begin{pmatrix} c \\ d \end{pmatrix} \\
+           &= \begin{vmatrix} 
+              a & c \\
+              b & d \\
+              \end{vmatrix} (e_1 \wedge e_2) \\
+           &= (ad-bc) (e_1 \wedge e_2)
+\end{aligned}$
+
+Here's an example:  
+
+$\begin{aligned}
+\begin{pmatrix} 3 \\ 0 \end{pmatrix} \wedge 
+\begin{pmatrix} 0 \\ 2 \end{pmatrix} &=
+           \begin{vmatrix} 
+              3 & 0 \\
+              0 & 2 \\
+              \end{vmatrix} (e_1 \wedge e_2) \\
+           &= 6 (e_1 \wedge e_2)
+\end{aligned}$
 
 ![](figures_draft/wedge.png)
+
+\newpage
+
+## Application: Distance from a point to a line
+
+Here's an application to a problem we have solved with
+the dot product and projection / rejection before: calculate
+the distance from a point to a line.
+
+Suppose you have a line given by a point $r_0$ and a vector
+$v$.  Suppose also that you have a point $r$ in the plane.
+To calculuate the distance from the point to the line,
+you can find the area of the parallelogram between the
+vectors $r-r_0$ and $v$, and divide by the base (the length of $v$).
+The height of the parallelogram is the perpendicular distance
+from the point to the line:
+
+$d = \dfrac{|(r-r_0)\wedge v|}{|v|}$
+
 ![](figures_draft/distance.png)
 
-
-
+Note that you could do this equivalently with the cross product,
+but the geometry is not as obvious.  
 
 
 ---

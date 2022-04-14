@@ -18,6 +18,7 @@
 <strong>MultiV 2021-22 / Dr. Kessner</strong></p>
 
 
+<h2 id="the-unit-circle">The unit circle</h2>
 <p>First we’re going to think about the unit circle in <span class="math inline">\(\mathbb{R}^2\)</span>, and change our notation as well.</p>
 <p>We’re going to call our unit vectors <span class="math inline">\(e_1 = \mathbf{i} = \begin{pmatrix} 1 \\ 0 \end{pmatrix}\)</span> and <span class="math inline">\(e_2 = \mathbf{j} = \begin{pmatrix} 0 \\ 1 \end{pmatrix}\)</span>.</p>
 <p>Let <span class="math inline">\(u = \begin{pmatrix} \cos \theta \\ \sin \theta \end{pmatrix}\)</span> be a vector on the unit circle.</p>
@@ -25,6 +26,8 @@
 <p>Observe that the projection of <span class="math inline">\(u\)</span> on the x-axis is given by <span class="math inline">\(\cos \theta\)</span>, and the area of the parallelogram determined by <span class="math inline">\(e_1\)</span> and <span class="math inline">\(u\)</span> is <span class="math inline">\(\sin \theta\)</span>.</p>
 <p>We can graph the area of the parallelogram as <span class="math inline">\(u\)</span> moves around the unit circle. Notice that for <span class="math inline">\(\theta \in [\pi, 2\pi]\)</span>, the area is negative.</p>
 <p><img src="figures_draft/sin.png" /></p>
+
+<h2 id="the-wedge-product">The wedge product</h2>
 <p>We have seen previously that <span class="math inline">\(u = \begin{pmatrix} a \\ b \end{pmatrix}\)</span> and <span class="math inline">\(v = \begin{pmatrix} c \\ d \end{pmatrix}\)</span>, the area of the parallelogram is given by the determinant <span class="math inline">\(\begin{vmatrix} a &amp; c \\ b &amp; d \\ \end{vmatrix} = ad - bc\)</span>.</p>
 <p><img src="figures_draft/vectors.png" /></p>
 <p>We define the wedge product <span class="math inline">\(u \wedge v\)</span> to be the directed (signed) area of the parallelogram determined by the two vectors, but with “units” (like <span class="math inline">\(\text{meters}^2\)</span>). We call this directed area a <em>bivector</em>.</p>
@@ -42,6 +45,17 @@ and <span class="math inline">\(v = \begin{pmatrix} c \\ d \end{pmatrix} = c e_1
 <p>Then</p>
 <p><span class="math inline">\(\begin{aligned} u \wedge v &amp;= (a e_1 + b e_2) \wedge (c e_1 + d e_2) \\  &amp;= (a e_1 \wedge c e_1) + (a e_1 \wedge d e_2) + (b e_2 \wedge c e_1) + (b e_2 \wedge d e_2) \\  &amp;= ac (e_1\wedge e_1) + + ad (e_1 \wedge e_2) + bc (e_2 \wedge e_1) + bd (e_2 \wedge e_2) \\  &amp;= (ad-bc) (e_1 \wedge e_2) \end{aligned}\)</span></p>
 <p>Notice that the determinant <span class="math inline">\(ad-bc\)</span> emerges as a consequence of the elementary properties of the wedge product.</p>
-<p><img src="figures_draft/wedge.png" /> <img src="figures_draft/distance.png" /></p>
+<p>Or we can use this as a shortcut for calculating the wedge product between two vectors:</p>
+<p><span class="math inline">\(\begin{aligned} u \wedge v &amp;= \begin{pmatrix} a \\ b \end{pmatrix} \wedge  \begin{pmatrix} c \\ d \end{pmatrix} \\  &amp;= \begin{vmatrix}  a &amp; c \\  b &amp; d \\  \end{vmatrix} (e_1 \wedge e_2) \\  &amp;= (ad-bc) (e_1 \wedge e_2) \end{aligned}\)</span></p>
+<p>Here’s an example:</p>
+<p><span class="math inline">\(\begin{aligned} \begin{pmatrix} 3 \\ 0 \end{pmatrix} \wedge \begin{pmatrix} 0 \\ 2 \end{pmatrix} &amp;=  \begin{vmatrix}  3 &amp; 0 \\  0 &amp; 2 \\  \end{vmatrix} (e_1 \wedge e_2) \\  &amp;= 6 (e_1 \wedge e_2) \end{aligned}\)</span></p>
+<p><img src="figures_draft/wedge.png" /></p>
+
+<h2 id="application-distance-from-a-point-to-a-line">Application: Distance from a point to a line</h2>
+<p>Here’s an application to a problem we have solved with the dot product and projection / rejection before: calculate the distance from a point to a line.</p>
+<p>Suppose you have a line given by a point <span class="math inline">\(r_0\)</span> and a vector <span class="math inline">\(v\)</span>. Suppose also that you have a point <span class="math inline">\(r\)</span> in the plane. To calculuate the distance from the point to the line, you can find the area of the parallelogram between the vectors <span class="math inline">\(r-r_0\)</span> and <span class="math inline">\(v\)</span>, and divide by the base (the length of <span class="math inline">\(v\)</span>). The height of the parallelogram is the perpendicular distance from the point to the line:</p>
+<p><span class="math inline">\(d = \dfrac{|(r-r_0)\wedge v|}{|v|}\)</span></p>
+<p><img src="figures_draft/distance.png" /></p>
+<p>Note that you could do this equivalently with the cross product, but the geometry is not as obvious.</p>
 </body>
 </html>
