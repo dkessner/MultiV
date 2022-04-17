@@ -42,7 +42,7 @@ _Answers:_
 1c. $9 \vec{e_1}\wedge\vec{e_2}$  
 1d. $8 \vec{e_1}\wedge\vec{e_2}$   
 2. $A = \frac{1}{2}|\vec{u}\wedge\vec{v}| = \frac{1}{2}(8) = 4$  
-3. $\sqrt{2}$  
+3. $\frac{3\sqrt{2}}{2}$  
 4. $5$  
 
 ---
