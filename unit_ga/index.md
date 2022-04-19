@@ -13,3 +13,6 @@ permalink: /unit_ga/
 [multiv_ga_hw_3 (html)](multiv_ga_hw_3.html)  
 [multiv_ga_hw_3 (pdf)](multiv_ga_hw_3.pdf) 
 
+[multiv_ga_hw_4 (html)](multiv_ga_hw_4.html)  
+[multiv_ga_hw_4 (pdf)](multiv_ga_hw_4.pdf) 
+
