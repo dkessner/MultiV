@@ -15,7 +15,7 @@ and $R_{uv}(w) = (vu)w(uv)$.
 
 \vspace{.25in}
 
-2. For a general $w = w_xe_1+w_ye_2+w_ze_3$, show that $R(w) =
+2. For a general $w = w_xe_1+w_ye_2+w_ze_3$, show that $R_u(w) =
 w_xe_1-w_ye_2-w_ze_3$.  In other words, the $y$ and $z$
 coordinates are negated.  What is the transformation $R_u$?
 
