@@ -11,7 +11,7 @@ and $R_{uv}(w) = (vu)w(uv)$.
 
 \vspace{.25in}
 
-1. Show that $R_u(e_1+e_3) = e_1-e_3$ and $R(u) = u$.  
+1. Show that $R_u(e_1+e_3) = e_1-e_3$ and $R_u(u) = u$.  
 
 \vspace{.25in}
 
@@ -21,7 +21,7 @@ coordinates are negated.  What is the transformation $R_u$?
 
 \vspace{.25in}
 
-3. Show that $R_v(e_1)=e_2$, $R(v) = v$ and
+3. Show that $R_v(e_1)=e_2$, $R_v(v) = v$ and
 $R_v(e_1+e_3)=e_2-e_3$.  What is the transformation $R_v$?
 
 \vspace{.25in}

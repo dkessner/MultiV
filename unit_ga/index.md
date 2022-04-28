@@ -19,3 +19,6 @@ permalink: /unit_ga/
 [multiv_ga_hw_5 (html)](multiv_ga_hw_5.html)  
 [multiv_ga_hw_5 (pdf)](multiv_ga_hw_5.pdf) 
 
+[multiv_ga_classwork (html)](multiv_ga_classwork.html)  
+[multiv_ga_classwork (pdf)](multiv_ga_classwork.pdf) 
+
