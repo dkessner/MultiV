@@ -30,7 +30,7 @@ $R_v(e_1+e_3)=e_2-e_3$.  What is the transformation $R_v$?
 $R_{uv}(e_1) = e_2$, 
 $R_{uv}(e_3) = e_3$, and
 $R_{uv}(e_1+e_3) = e_2+e_3$.
-What is the transformation $R_{uv}$.  Note that $R_{uv}=R_vR_u$.
+What is the transformation $R_{uv}$?  Note that $R_{uv}=R_vR_u$.
 
 \vspace{.25in}
 
