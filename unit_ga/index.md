@@ -7,6 +7,9 @@ permalink: /unit_ga/
 [multiv_ga_hw_1 (html)](multiv_ga_hw_1.html)  
 [multiv_ga_hw_1 (pdf)](multiv_ga_hw_1.pdf) 
 
+[multiv_ga_notes (html)](multiv_ga_notes_1.html)  
+[multiv_ga_notes_1 (pdf)](multiv_ga_notes_1.pdf) 
+
 [multiv_ga_hw_2 (html)](multiv_ga_hw_2.html)  
 [multiv_ga_hw_2 (pdf)](multiv_ga_hw_2.pdf) 
 

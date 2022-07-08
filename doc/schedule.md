@@ -49,7 +49,7 @@ geometry: margin=1in
 |--  |Apr 4 |-|_Spring Break_|
 |13  |Apr 11|2|Special unit - Geometric Algebra|
 |14  |Apr 18|3|Special unit - Geometric Algebra|
-|15  |Apr 25|2|6.1 Separable equations; 6.2 Integrating Factors|
-|16  |May 2 |2|6.3 Population growth, logistic function|
+|15  |Apr 25|2|Special unit - Geometric Algebra|
+|16  |May 2 |2|Special unit - Geometric Algebra|
 |17  |May 9 |?|End of MultiV :(|
 
